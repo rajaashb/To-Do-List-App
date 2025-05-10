@@ -26,23 +26,23 @@ A simple and functional to-do list desktop application built using Python's Tkin
 
 Main window
 
-![Screenshot](main-window.png)
+![Screenshot](screenshots/main-window.png)
 
 Add task window
 
-![Screenshot](add-task.png)
+![Screenshot](screenshots/add-task.png)
 
 Mark task as completed
 
-![Screenshot](mark-task.png)
+![Screenshot](screenshots/mark-task.png)
 
 Delete task
 
-![Screenshot](delete-task.png)
+![Screenshot](screenshots/delete-task.png)
 
 Scrollbar for long lists
 
-![Screenshot](scrollbar.png)
+![Screenshot](screenshots/scrollbar.png)
 
 
 
