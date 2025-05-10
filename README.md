@@ -94,11 +94,11 @@ todo-list-tkinter/
 
 │
 
-├── todo.py          # Main Python file containing the app
+├── to-do list.py          # Main Python file containing the app
 
 ├── README.md        # You're reading it!
 
-└── screenshot.png   # A visual preview of the app
+└── screenshots.png   # A visual preview of the app
 
 
 ---------
