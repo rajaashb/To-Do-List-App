@@ -90,7 +90,7 @@ Tkinter (comes pre-installed with Python)
 
 📁 File Structure
 
-todo-list-tkinter/
+To-Do-List-App/
 
 │
 
