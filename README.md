@@ -66,7 +66,7 @@ Tkinter (comes pre-installed with Python)
 
 - Navigate to the project directory: (example) cd To-Do-List-App
 
-- Run the app: python todo.py
+- Run the app: python "to-do list.py"
 
 
 ---------
