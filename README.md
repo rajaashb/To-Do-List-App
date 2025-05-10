@@ -91,9 +91,13 @@ Tkinter (comes pre-installed with Python)
 📁 File Structure
 
 todo-list-tkinter/
+
 │
+
 ├── todo.py          # Main Python file containing the app
+
 ├── README.md        # You're reading it!
+
 └── screenshot.png   # A visual preview of the app
 
 
