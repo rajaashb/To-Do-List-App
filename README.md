@@ -62,7 +62,7 @@ Tkinter (comes pre-installed with Python)
 
 📦 How to Run
 
-Clone the repository: git clone https://github.com/yourusername/todo-list-tkinter.git
+Clone the repository: git clone https://github.com/rajaashb/To-Do-List-App.git
 
 cd todo-list-tkinter
 
